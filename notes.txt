@@ -1,6 +1,5 @@
 dk
 ravi
 romik
-khanjan
-avadh
+
 - GitHub issue closing practice
