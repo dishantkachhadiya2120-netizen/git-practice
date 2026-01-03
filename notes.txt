@@ -8,3 +8,5 @@ savan
 aryan
 
 >>>>>>> parent of f61e5df (Improved notes formatting, closes #1)
+Wrong entry added
+Fix name entry
