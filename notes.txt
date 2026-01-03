@@ -2,11 +2,16 @@ dk
 ravi
 romik
 <<<<<<< HEAD
+<<<<<<< HEAD
 avadh 
 khanjan
 savan
 aryan
 
 >>>>>>> parent of f61e5df (Improved notes formatting, closes #1)
-Wrong entry added
 Fix name entry
+=======
+khanjan
+avadh
+- GitHub issue closing practice
+>>>>>>> parent of ff26c83 (Improve notes formatting, closes #1)
