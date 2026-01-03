@@ -1,8 +1,10 @@
 dk
 ravi
 romik
+<<<<<<< HEAD
 avadh 
 khanjan
 savan
 aryan
-smit
+
+>>>>>>> parent of f61e5df (Improved notes formatting, closes #1)
