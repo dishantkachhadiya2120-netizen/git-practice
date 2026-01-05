@@ -1,0 +1,11 @@
+name : Basic CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run CI message
+        run: echo "CI pipline is running"
+
