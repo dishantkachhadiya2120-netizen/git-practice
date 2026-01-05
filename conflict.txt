@@ -1,1 +1,1 @@
-Line from Conflict-Demo branch
+This line is from conflict branch
