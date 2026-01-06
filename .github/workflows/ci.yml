@@ -8,10 +8,10 @@ jobs:
     steps:
       - name: Run CI message
         run: |
-        echo "CI pipline is running"
-        if [ -f "README.md"]; then
-         echo "File exists" 
-        else
-          echo "File does not exist"
-          exit 1 
-        fi  
+          echo "CI pipline is running"
+          if [ -f "README.md" ]; then
+            echo "File exists" 
+          else
+            echo "File does not exist"
+            exit 1 
+          fi  
