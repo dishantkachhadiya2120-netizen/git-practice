@@ -8,4 +8,4 @@ jobs:
     steps:
       - name: Run CI message
         run: echo "CI pipline is running"
-
+        run: [ -f "README.md "] && echo "File exists" || echo "File does not exist"
