@@ -1,7 +1,9 @@
 name : Basic CI
 
-on: [pull_request]
-
+on:
+  push: 
+    branches: [main]
+  pull request:  
 jobs:
   build:
     runs-on: ubuntu-latest
